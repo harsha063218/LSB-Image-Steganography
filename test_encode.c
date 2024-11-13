@@ -4,13 +4,13 @@ SERIAL NO                 :24016_169
 PROJECT NAME              :STEGANOGRAPHY
 DESCRIPTION ABOUT PROJECT :Steganography is the art of hiding information within another
                            medium, such as text, image, audio, or video files, in such a 
-						   way that the presence of the information is concealed.
-						   In this project, we implement an image-based steganography 
-						   technique where secret data (such as text) is embedded into the
-						   pixel values of an image file (BMP format) by manipulating the 
-						   least significant bits (LSB). The project provides a method for
-						   encoding and decoding messages, allowing users to securely 
-						   communicate hidden information.
+			   way that the presence of the information is concealed.
+			   In this project, we implement an image-based steganography 
+			   technique where secret data (such as text) is embedded into the
+		           pixel values of an image file (BMP format) by manipulating the 
+			   least significant bits (LSB). The project provides a method for
+			   encoding and decoding messages, allowing users to securely 
+			   communicate hidden information.
 */ 
 #include <stdio.h>
 #include "encode.h"
